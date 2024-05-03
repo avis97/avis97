@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end part and Cloud.**
 
-- 🤝 I’m looking for help with **Java toll's**
+- 🤝 I’m looking for help with **Java Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avis97](https://github.com/avis97)
 
