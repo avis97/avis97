@@ -5,7 +5,7 @@
 
 - 🔭 **Java Developer**: Proficient in springboot,Rest Apis,
       Hibernate,Mysql Databse.
-- 🌱 **Frontend**: Overview in Html,CSS and Javascript jor Web dev.
+- 🌱 **Frontend**: Overview in Html,CSS and Javascript for Web dev.
      now days learning about React Js.
 - 🤝**Backend**: Strong Knowledge With Springboot,Spring Security for
       building Rest Apis with Server.
