@@ -6,7 +6,7 @@
 - 🔭 **Java Developer**: Proficient in springboot,Rest Apis,
       Hibernate,Mysql Databse.
 - 🌱 **Frontend**: Overview in Html,CSS and Javascript for Web dev.
-     now days learning about React Js.
+     Working With ReactJs.
 - 🤝**Backend**: Strong Knowledge With Springboot,Spring Security for
       building Rest Apis with Server.
 - 💻**Deployment**: Have some Experience Auto Deploy in AWS by help of Ci/Cd config
