@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avishek Sarkar</h1>
 <h3 align="center">Software Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/software-engineer-creating-portfolio-that-includes-github-link-live-code-examples_1291600-77554.jpg?w=826"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avis97&label=Profile%20views&color=0e75b6&style=flat" alt="avis97" /> </p>
 
 - 🔭 **Java Developer**: Proficient in springboot,Rest Apis,
